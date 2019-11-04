@@ -23,3 +23,5 @@ and
 ```bash
 cd final/client && npm i && npm start
 ```
+
+**to run program from "start" file, which I am actively working on, you must run "npm start" from ./final/server/src.**
